@@ -1,6 +1,6 @@
 # hello-world
-Hello everybody
+Hello World
 
 "Defensa el teu dret a pensar, perquè fins i tot pensar de manera errònia és millor que no pensar" (Hipàtia d’Alexandria)
 
-“Who in the world am I? Ah, that's the great puzzle.”  (Alice, Alice in Wonderland by Lewis Carroll)
+“Begin at the beginning”, the King said gravely, “and go on till you come to the end: then stop.” (The King, Alice in Wonderland by Lewis Carroll)
